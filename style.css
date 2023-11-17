@@ -1,0 +1,7 @@
+* {
+  font-family: 'Mali', handwriting;
+}
+
+.dropdown:hover .dropdown-menu {
+display: block;
+}
